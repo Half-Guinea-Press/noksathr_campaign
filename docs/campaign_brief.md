@@ -1,6 +1,8 @@
-# The Noksathr Campaign:
+# The Noksathr Campaign Brief:
 
 Noksathr is a world precariously ballanced. The history books say that wars are won with power over the world itself more than swords. The first great kingdoms and empires first grew with the support of their deities whose favor they had garnered. Only to fall as those same gods in their fickleness chose others as their champions. This continued in a cruel cycle that turned the world over and over. Until, the races realized that the divine where only children playing with them as toys. And the god's powers were something that they could wrest from the divine to hold themselves. And the control of the world changed hands to those who learned and mastered the ways of the arcane. Spells replaced prayers as the deciding factor on the battlefield. But just like the divine, the arcane was found to be fickle. Few had the ability to harness the power innately. And those who could learn to master them were even fewer. The time and study it took to bring destruction and subjecation to the battlefield was irreplaceable. Thus the loss of someone who had such power could bring the mightiest low. Recent history has shown that anyone can wield enough power to do just that.
+
+## The World of Noksathr
 
 ### Iliaster:
 
