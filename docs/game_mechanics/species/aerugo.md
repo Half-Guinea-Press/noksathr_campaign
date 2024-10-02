@@ -119,7 +119,7 @@ You can speak, read and write Common and Mothspeech. Mothspeech is mainly a lang
 
 Here you can find a table describing how much thread you need in order to be able to weave various objects 
 
-| Feet of Thread Required Object | |
+| Feet of Thread | Object |
 | :-: | :-: |
 | 250 | Clothes, common  |
 | 250 | Clothes, travel  |
