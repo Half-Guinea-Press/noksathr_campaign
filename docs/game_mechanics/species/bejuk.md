@@ -10,11 +10,18 @@ Migration is a necessity for the bejuk. They seek to collect allbeautiful things
 
 The nomadic bejuks take great care in naming their children.Many variables matter: the locations of celestial bodies at thetime of birth, the first animal to approach the newborn,where the umbilical cord was cut, etc. It is exceedingly rarefor a bejuk to be named on their parents' whim alone.Because family structures are loose and monogamy is rare,bejuk surnames match the name of the community they hailfrom. A two-letter "bridge" connects their given name to thissurname and expresses how long an individual has beenapart from their community. Therefore, an example of a fullbejuk name would be Itala sa Zerutz.
 
-### Male Names: Aldoi, Behera, Bilo, Dolo, Errepide, Fazati,Giratoki, Helbura, Hodei, Ibilbaza, Jarle, Kathlo, Kuilu,Lerro, Mortuko, Rafi, Sasoa, Tamani, Tegiko, Tikoa, Unitoa
+### Male Names: 
 
-### Female Names: Abesti, Ahrea, Beltzae, Daia, Erdi, Hegaldi,Ilargi, Itala, Kapena, Lehoi, Melu, Mendi, Miakatu, Nietu,Panka, Rensugi, Serriko, Simaurra, Tzaile, Ubide, Xume
 
-### Bridges: co (still together), pe (less than a week), ji (less thana month), bu (less than 4 months), sa (more than 4 months)Community Names: Arrunt, Basoan, Bildum, Eskutitz,Gutun, Hankak, Herrdoil, Izotz, Larruj, Lokaz, Migrad,Munitat, Oinez, Oihanean, Yo-an, Zerutz, Zikinkerit
+Aldoi, Behera, Bilo, Dolo, Errepide, Fazati,Giratoki, Helbura, Hodei, Ibilbaza, Jarle, Kathlo, Kuilu,Lerro, Mortuko, Rafi, Sasoa, Tamani, Tegiko, Tikoa, Unitoa
+
+### Female Names: 
+
+Abesti, Ahrea, Beltzae, Daia, Erdi, Hegaldi,Ilargi, Itala, Kapena, Lehoi, Melu, Mendi, Miakatu, Nietu,Panka, Rensugi, Serriko, Simaurra, Tzaile, Ubide, Xume
+
+### Bridges: 
+
+co (still together), pe (less than a week), ji (less thana month), bu (less than 4 months), sa (more than 4 months)Community Names: Arrunt, Basoan, Bildum, Eskutitz,Gutun, Hankak, Herrdoil, Izotz, Larruj, Lokaz, Migrad,Munitat, Oinez, Oihanean, Yo-an, Zerutz, Zikinkerit
 
 ## Bejuk Traits
 
