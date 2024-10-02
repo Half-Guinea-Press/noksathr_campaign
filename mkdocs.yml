@@ -9,6 +9,7 @@ theme:
     - navigation.tracking
     - navigation.prune
     - content.tooltips
+    - toc.integrate
     font:
        text: Playfair Display
        code: Red Hat Mono
