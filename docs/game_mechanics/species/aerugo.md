@@ -44,7 +44,7 @@ You can use the aerugo Quirks table to determine a personality quirk for an aeru
 
 **Aerugo Quirks** 
 
-| d8 Quirk |   |
+| d8 | Quirk |
 | :-: | :-: |
 | 1 | You hate all kinds of artificial light, the only one you appreciate being that of the sun, the moon or the stars.  |
 | 2 | Artificial lights charm you as much as the ones of the moon or the stars. You can often be found staring at a torch or a lantern, bewitched.  |
