@@ -66,7 +66,9 @@ d8 Quirk
 
 Aerugo are given a name by the community they live in, resulting usually in a name in Mothspeech and one in Common, which is used by all other races when referring to them. Those names are usually one or two syllables long, with a prevalence of vowels and usually no harsh consonants. There is no distinction between male and female names. 
 
-### Aerugo names: Ausi, Dei, Eli, Fee, Inuue, Laenne, Leesha, Nae, Ofee, Ool, Phii, Pula, Sesi, Siio, Uumon, Wetha 
+### Aerugo names: 
+
+Ausi, Dei, Eli, Fee, Inuue, Laenne, Leesha, Nae, Ofee, Ool, Phii, Pula, Sesi, Siio, Uumon, Wetha 
 
 ## Aerugo Traits 
 
