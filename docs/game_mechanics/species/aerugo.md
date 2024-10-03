@@ -71,57 +71,91 @@ Alone, the young traveler was camping in the woods at night, keeping watch for t
     
     -   Ability score increase
     
-        Your Dexterity score increases by 2, and your Intelligence score increases by 1. 
+        ---
+		
+		Your Dexterity score increases by 2, and your Intelligence score increases by 1. 
         
     -   Age
         
-        Aerugo larvae mature into moths after around ten months, at which point they show the physical and mental age of a three-years-old human child. They mature at age 15, and are known to live up to 90 years. 
+        ---
+		
+		Aerugo larvae mature into moths after around ten months, at which point they show the physical and mental age of a three-years-old human child. They mature at age 15, and are known to live up to 90 years. 
         
     -   Alignment
         
-        Aerugo tend towards chaotic alignments, as they grow with little amount of rules to bind them and, experiencing various cultures through their travels, they create their own set of moral laws. 
+        ---
+		
+		Aerugo tend towards chaotic alignments, as they grow with little amount of rules to bind them and, experiencing various cultures through their travels, they create their own set of moral laws. 
         
         They almost never fall into evil alignments, as they respect other cultures and treasure the company of other people and the beauty of the world. 
         
     -   Size
         
-        Aerugo range in height from barely 4 feet to more than 6 feet tall. Regardless of your position in that range, your size is Medium. 
+        ---
+		
+		Aerugo range in height from barely 4 feet to more than 6 feet tall. Regardless of your position in that range, your size is Medium. 
         
     -   Speed
         
-        Your base walking speed is 30 feet. 
+        ---
+		
+		Your base walking speed is 30 feet. 
         
     -   Moth wings
         
-        Your moth wings grant you a flying speed of 20 feet. To be able to use this speed, you mustn't be wearing heavy or medium armour. 
+        ---
+		
+		Your moth wings grant you a flying speed of 20 feet. To be able to use this speed, you mustn't be wearing heavy or medium armour. 
         
     -   Darkvision
         
-        Accustomed at having the moon as the only light in your days, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. 
+        ---
+		
+		Accustomed at having the moon as the only light in your days, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. 
         
     -   Sensible antennae
         
-        Thanks to your long antennae you have advantage on Wisdom (Perception) checks that rely on smell. 
+        ---
+		
+		Thanks to your long antennae you have advantage on Wisdom (Perception) checks that rely on smell. 
         
     -   Light susceptibility
         
-        You are not accustomed to strong artificial lights, which distract you and impede you from focusing on your targets. You have disadvantage on attack rolls and Wisdom (Perception) checks when you are within 20 feet of a source of bright light that you can see, unless the object that spreads bright light is your target itself. 
+        ---
+		
+		You are not accustomed to strong artificial lights, which distract you and impede you from focusing on your targets. You have disadvantage on attack rolls and Wisdom (Perception) checks when you are within 20 feet of a source of bright light that you can see, unless the object that spreads bright light is your target itself. 
         
     -   Extra limbs
         
-        You have a second pair of arms, which are smaller and weaker than your normal arms, but that can still carry out tasks with precision. Those arms can't wield weapons or shields, nor perform somatic components of spells, but can hold and use a spellcasting focus or any other small object, weighting up to 3 times your Strenght score. As a bonus action on your turn, you can use your extra limbs to interact with one additional object or feature of the Environment during either your movement or action (as described in page 190 in the PHB). 
+        ---
+		
+		You have a second pair of arms, which are smaller and weaker than your normal arms, but that can still carry out tasks with precision. Those arms can't wield weapons or shields, nor perform somatic components of spells, but can hold and use a spellcasting focus or any other small object, weighting up to 3 times your Strenght score. As a bonus action on your turn, you can use your extra limbs to interact with one additional object or feature of the Environment during either your movement or action (as described in page 190 in the PHB). 
         
     -   Weaver of silk
         
-        You gain proficiency with the Weaver's tools. Also, you can use you action to produce up to 5 feet of a thin, silky thread. In order to do that, your mouth and two of your hands must be free (you can use your secondary arms for this action) . The amount of silk you can produce is a number of feet equal to 5 times your Constitution score. Once you have produced the maximum length of silk, you can't produce any more until you finish a long rest.. The thread produced in this way is thin and breaks easily, but you can use some weaver's tool to make cloth out of it, which is instead warm, comfortable and resistant. 
+        ---
+		
+		You gain proficiency with the Weaver's tools. Also, you can use you action to produce up to 5 feet of a thin, silky thread. In order to do that, your mouth and two of your hands must be free (you can use your secondary arms for this action) . The amount of silk you can produce is a number of feet equal to 5 times your Constitution score. Once you have produced the maximum length of silk, you can't produce any more until you finish a long rest.. The thread produced in this way is thin and breaks easily, but you can use some weaver's tool to make cloth out of it, which is instead warm, comfortable and resistant. 
         
     -   Languages
         
-        You can speak, read and write Common and Mothspeech. Mothspeech is mainly a language of transmitted pherormones, with few body language, and because of this it can't be written. Also, it is impossible for other creatures besides moths, butterflies or aerugo to comprehend this language (although it is possible with magic), and many won't even notice when you use it. Using Mothspeech, you can communicate simple ideas to moths and butterflies, and understand their "speach". Because of the limited vocabulary of this language, most aerugo speak through both Mothspeech and Common. 
+        ---
+		
+		You can speak, read and write Common and Mothspeech. 
+		
+	-	Mothspeech
+
+		---
+		
+		Mothspeech is mainly a language of transmitted pherormones, with few body language, and because of this it can't be written. Also, it is impossible for other creatures besides moths, butterflies or aerugo to comprehend this language (although it is possible with magic), and many won't even notice when you use it. 
+		
+		Using Mothspeech, you can communicate simple ideas to moths and butterflies, and understand their "speach". Because of the limited vocabulary of this language, most aerugo speak through both Mothspeech and Common. 
         
     -   Weaving the silk
         
-        Here you can find a table describing how much thread you need in order to be able to weave various objects 
+        ---
+		
+		Here you can find a table describing how much thread you need in order to be able to weave various objects 
         
         | Feet of Thread | Object |
         | :-: | :-: |
