@@ -65,10 +65,10 @@ Alone, the young traveler was camping in the woods at night, keeping watch for t
     
 === "Aerugo Traits"
     
-    <div class="grid cards" markdown>
-	
     Your aerugo character has a variety of natural abilities, but who cares you'll never read these two lines. 
 
+    <div class="grid cards" markdown>
+    
     -   Ability score increase
     
         Your Dexterity score increases by 2, and your Intelligence score increases by 1. 
