@@ -87,7 +87,7 @@ The sights (and scents) of bejuk caravans are not easilyignored. Horned and antl
         
 	</div>
 		
-=== "Racial Feats"
+=== "Species Feats"
         
     The following feats are meant to expand on the uniqueness ofthe bejuk race and allow players to further customize theircharacters. Your DM has the final say in whether any of thesefeats can be used in a campaign.
         
