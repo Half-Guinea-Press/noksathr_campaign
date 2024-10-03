@@ -86,54 +86,56 @@ Because of their history, gremlins keep themselves distant from other races. Man
         
         Different schools of mind on how to make it are found among gremlins across the world. Each ofthese philosophies discribe how you as a gremlin carve out a path for yourself in this world. Choose one of the following; ingenuity, and trickery.
         
-    === "Ingenuity" 
-        
-        You prefer to use your intelligence for problem solving, being convinced that the right idea is the key to any issue. Occasionally you show unrivaled moments of inventiveness and critical thinking capabilities thanks to your finely honed mind.
-        
-        -   Ability score increase. 
+        === "Ingenuity" 
             
-            Your intelligence score increases by1.
+            You prefer to use your intelligence for problem solving, being convinced that the right idea is the key to any issue. Occasionally you show unrivaled moments of inventiveness and critical thinking capabilities thanks to your finely honed mind.
             
-        -   Booksmart. 
+            -   Ability score increase. 
+                
+                Your intelligence score increases by1.
+                
+            -   Booksmart. 
+                
+                You are proficient in one of the following skills: arcana, history, investigation.
+                
+            -   Moment of ingenuity. 
+                
+                When push comes to shove your mind works overtime to find a solution for your current predicament. When you fail an attack roll, ability check, or saving throw, you can add your proficiency bonus to the result, which may cause the roll to become a success. Once you use this feature, you can’t use it again until you have finished a short or long rest.
+                
+            -   Brilliant utilisation. 
+                
+                When using a tool you can make an intelligence check in place of another ability score for any task.
             
-            You are proficient in one of the following skills: arcana, history, investigation.
+        === "Trickery"
             
-        -   Moment of ingenuity. 
+            You have chosen a more anarchic approach to living by creating opportunities via the foolishness and downfall of others. Daring and bold, you usually target powerful forces for bigger rewards. There is little satisfaction or benefit in targeting the already downtrodden.
             
-            When push comes to shove your mind works overtime to find a solution for your current predicament. When you fail an attack roll, ability check, or saving throw, you can add your proficiency bonus to the result, which may cause the roll to become a success. Once you use this feature, you can’t use it again until you have finished a short or long rest.
-            
-        -   Brilliant utilisation. 
-            
-            When using a tool you can make an intelligence check in place of another ability score for any task.
-        
-    === "Trickery"
-        
-        You have chosen a more anarchic approach to living by creating opportunities via the foolishness and downfall of others. Daring and bold, you usually target powerful forces for bigger rewards. There is little satisfaction or benefit in targeting the already downtrodden.
-        
-        -   Ability score increase. 
-            
-            Your dexterity score increases by 1.
-            
-        -   Cunning. 
-            
-            You are proficient in one of the following skills: acrobatics, desception, sleight of hand, stealth.
-            
-        -   Scram. 
-            
-            When you fail a dexterity (sleight of hand) check, a creature makes a successful wisdom (perception) check to detect you, or you fail a charisma (deception) check to deceive another creature, you can use a reaction to move up to your speed without provoking opportunity attacks. To use this trait, you must see the creature when it detects you or sees through your deception.
-            
-        -   Throwing arm. 
-            
-            You are proficient with thrown improvised weapons and if the improvised weapon weighs 1 lb. Or less, you treat the weapon as if it has the finesse trait.
+            -   Ability score increase. 
+                
+                Your dexterity score increases by 1.
+                
+            -   Cunning. 
+                
+                You are proficient in one of the following skills: acrobatics, desception, sleight of hand, stealth.
+                
+            -   Scram. 
+                
+                When you fail a dexterity (sleight of hand) check, a creature makes a successful wisdom (perception) check to detect you, or you fail a charisma (deception) check to deceive another creature, you can use a reaction to move up to your speed without provoking opportunity attacks. To use this trait, you must see the creature when it detects you or sees through your deception.
+                
+            -   Throwing arm. 
+                
+                You are proficient with thrown improvised weapons and if the improvised weapon weighs 1 lb. Or less, you treat the weapon as if it has the finesse trait.
 	</div>
         
 === "Species Feats"
         
-        Gremlin characters have access to unique feats when they level up in a class. Some dms allow the use of feats to further customize a character, see chapter 6, “customization options”, of the player’s handbook.
+    Gremlin characters have access to unique feats when they level up in a class. Some dms allow the use of feats to further customize a character, see chapter 6, “customization options”, of the player’s handbook.
+
+    The following special feats allow your character to expand upon their innate abilities, as each feat represents an evolution of your character’s nature and traits. 
         
-        The following special feats allow your character to expand upon their innate abilities, as each feat represents an evolution of your character’s nature and traits. 
-        
-    -   Escape artist
+    <div class="grid cards" markdown>
+	
+	-   Escape artist
         
         Prerequisite: gremlin (trickery), dexterity 13 or higher
         
