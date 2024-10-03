@@ -63,9 +63,9 @@ Alone, the young traveler was camping in the woods at night, keeping watch for t
     
     Aerugo names: Ausi, Dei, Eli, Fee, Inuue, Laenne, Leesha, Nae, Ofee, Ool, Phii, Pula, Sesi, Siio, Uumon, Wetha 
     
-==== "Aerugo Traits"
+=== "Aerugo Traits"
     
-	<div class="grid cards" markdown>
+    <div class="grid cards" markdown>
 	
     Your aerugo character has a variety of natural abilities, but who cares you'll never read these two lines. 
 
